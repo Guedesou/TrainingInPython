@@ -1,12 +1,10 @@
-# Beginner Projects
+🐍 Projetos Iniciantes em Python 🐍
+---
 
-A couple of beginner projects here:
+Projetos para iniciantes baseados nos tutoriais do @freeCodeCamp:
 
-- `selector.py`: simply a random selector to tell me who to facetime! (deals with imports)
-- `login.py`: a fake login that lets you look like you're hacking into some super secret mainframe lol (practice with if statements, imports, print statements)
-- `madlibs.py`: madlibs! (practice with inputs, strings)
-- `rock_paper_scissors.py`: rock paper scissors (practice with functions and if statements)
-- NOTE: `random_madlibs.py` and `sample_madlibs` are madlibs that I created if you just want to play around with them
-- `web_app`: build your own web app using flask! (this would be more intermediate, but give it a try if you're feeling ambitious!!)
-
-
+- `selector.py`: simplesmente um seletor aleatório para me dizer a quem devo fazer facetime! 
+- `login.py`: um login falso que permite que você pareça estar invadindo algum mainframe super secreto
+- `madlibs.py`: madlibs!
+- `rock_paper_scissors.py`: pedra papel tesoura
+- `web_app`: construa seu próprio aplicativo da web usando balão!
